@@ -1,0 +1,16 @@
+number of stages
+//repeat the next part per stage
+stage background file
+background draw location
+stage limits
+Stage respawn point
+platforms (first two numbers are size and last two are location)
+-1
+stairways (location, num of stairs, direction, going up or down[0 = up, 1 = down])
+-1
+enemies (starting location, type)
+-1
+objects (starting location, type)
+-1
+screen transitions (type, location, next stage, end location)
+-1
